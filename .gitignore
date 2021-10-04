@@ -1,0 +1,37 @@
+# Sorgente compilata #
+# ##################
+* .com
+* .classe
+* .dll
+* .exe
+* .o
+* .così
+
+# Pacchetti #
+# ###########
+# è meglio decomprimere questi file e salvare il sorgente grezzo
+# git ha i suoi metodi di compressione incorporati
+* .7z
+* .dmg
+* .gz
+* .iso
+* .jar
+* .rar
+* .tar
+* .zip
+
+# Registri e database #
+# #####################
+* .log
+* .sql
+* .sqlite
+
+# File generati dal sistema operativo #
+# #####################
+.DS_Store
+.DS_Store ?
+._ *
+.Spotlight-V100
+.Cestino
+ehthumbs.db
+Thumbs.db
